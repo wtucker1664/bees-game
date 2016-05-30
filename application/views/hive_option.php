@@ -1,0 +1,1 @@
+<li><a href="<?php print site_url("hive/play");?>?id=<?php print $id;?>">Hive <?php print $name ?> (Hits: <?php print $hits;?></a></li>
